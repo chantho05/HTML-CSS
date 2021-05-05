@@ -1,1 +1,1 @@
-# HTML-CSS
+A portfolio webpage created using HTML5 and CSS3. Executing both beginner and intermediate CSS code to ensure that the web page is clean and easily readable. I used a Favicon which can be recreated, 4 icons at the lower page that include GitHub, LinkedIn, phone and email with accessibility and convenience to the employer. Ex: If they press the email icon it will automatically bring up your email to email you, the applicant. If the phone icon is pressed then it will bring up the ability to call you.
